@@ -1,0 +1,5 @@
+﻿Username,Password,Expected
+user1,password1,Welcome
+user2,password2,Welcome
+user3,password3,Welcome
+user1,wrongpass,Invalid credentials

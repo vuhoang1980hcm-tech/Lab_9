@@ -4,4 +4,5 @@
   <Project Path="BasicMath/BasicMath.csproj" />
   <Project Path="BasicMathCsvTests/BasicMathCsvTests.csproj" />
   <Project Path="BasicMathTests/BasicMathTests.csproj" />
+  <Project Path="LoginAutomation/LoginAutomation.csproj" />
 </Solution>

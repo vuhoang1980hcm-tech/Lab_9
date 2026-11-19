@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="BankAccountApp/BankAccountApp.csproj" />
+  <Project Path="BankAccountTests/BankAccountTests.csproj" />
   <Project Path="BasicMath/BasicMath.csproj" />
   <Project Path="BasicMathCsvTests/BasicMathCsvTests.csproj" />
   <Project Path="BasicMathTests/BasicMathTests.csproj" />
